@@ -1,0 +1,10 @@
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-openai
+langchainhub
+chromadb
+# torch is required to build sentence-transformers
+torch
+sentence-transformers
